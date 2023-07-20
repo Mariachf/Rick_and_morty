@@ -1,8 +1,10 @@
 <p align="center">
-  <h1 align="center">Projeto Escola de Musica</h1>
+  <h1 align="center">Primeiro Projeto API</h1>
   <a>
-    <img src = "./src/img/projeto.png" >
+    <img src = "./src/components/img/page..png" >
   </a>
+
+  <p>Projeto feito com API do Rick and morty</p>
   
 </p>
 
